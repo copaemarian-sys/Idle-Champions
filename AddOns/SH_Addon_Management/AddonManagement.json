@@ -1,0 +1,199 @@
+{
+	"Addon Order":[
+		{
+			"Name":"IC Core",
+			"Version":"v0.2.6"
+		},
+		{
+			"Name":"Briv Gem Farm",
+			"Version":"v1.7.1"
+		},
+		{
+			"Name":"BrivGemFarm Advanced Settings",
+			"Version":"v0.2.5"
+		},
+		{
+			"Name":"BrivGemFarm Stack and Stop",
+			"Version":"v0.0.1"
+		},
+		{
+			"Name":"Briv Gem Farm Stats",
+			"Version":"v1.3.2"
+		},
+		{
+			"Name":"Chest Purchaser",
+			"Version":"v0.3.1"
+		},
+		{
+			"Name":"About",
+			"Version":"v0.3.5"
+		},
+		{
+			"Name":"Game Location Settings",
+			"Version":"v0.1.3"
+		},
+		{
+			"Name":"Inventory View",
+			"Version":"v0.2.3"
+		},
+		{
+			"Name":"Memory Functions Testing (Continuous)",
+			"Version":"v0.2.5"
+		},
+		{
+			"Name":"Memory Functions Full Read",
+			"Version":"v0.2.4"
+		},
+		{
+			"Name":"Theme Manager",
+			"Version":"v0.0.3"
+		},
+		{
+			"Name":"Example of an Addon (NOT FOR USE!)",
+			"Version":"v0.1.2"
+		},
+		{
+			"Name":"Claim Daily Platinum",
+			"Version":"v0.5.6"
+		},
+		{
+			"Name":"BrivGemFarm HybridTurboStacking",
+			"Version":"v1.2.5"
+		},
+		{
+			"Name":"EGS Overlay Swatter",
+			"Version":"v0.1.2"
+		},
+		{
+			"Name":"BrivGemFarm LevelUp",
+			"Version":"v1.5.1"
+		},
+		{
+			"Name":"Game Settings Fix",
+			"Version":"v0.2.11"
+		},
+		{
+			"Name":"HybridTurboStacking PreferredEnemies",
+			"Version":"v0.0.4"
+		},
+		{
+			"Name":"AdvancedSettings Preset Routes",
+			"Version":"v0.0.1"
+		},
+		{
+			"Name":"Area Timing",
+			"Version":"v1.1.1"
+		},
+		{
+			"Name":"BrivGemFarm Briv Feat Swap",
+			"Version":"v1.6.9"
+		},
+		{
+			"Name":"No Modron Adventuring",
+			"Version":"v0.0.6"
+		},
+		{
+			"Name":"Process Affinity",
+			"Version":"v1.0.3"
+		},
+		{
+			"Name":"RNG Waiting Room",
+			"Version":"v0.3.1"
+		},
+		{
+			"Name":"Cazrin Books Farmer",
+			"Version":"v0.0.1"
+		},
+		{
+			"Name":"BrivGemFarm HideDefaultProfile",
+			"Version":"v0.0.1"
+		}
+	],
+	"Enabled Addons":[
+		{
+			"Name":"IC Core",
+			"Url":"https://github.com/antilectual/Idle-Champions/tree/main/AddOns/IC_Core",
+			"Version":"v0.2.6"
+		},
+		{
+			"Name":"Briv Gem Farm",
+			"Url":"https://github.com/antilectual/Idle-Champions/tree/main/AddOns/IC_BrivGemFarm_Performance",
+			"Version":"v1.7.1"
+		},
+		{
+			"Name":"BrivGemFarm Advanced Settings",
+			"Url":"https://github.com/antilectual/Idle-Champions/tree/main/AddOns/IC_BrivGemFarm_AdvancedSettings",
+			"Version":"v0.2.5"
+		},
+		{
+			"Name":"Briv Gem Farm Stats",
+			"Url":"https://github.com/antilectual/Idle-Champions/tree/main/AddOns/IC_BrivGemFarm_Stats",
+			"Version":"v1.3.2"
+		},
+		{
+			"Name":"Chest Purchaser",
+			"Url":"https://github.com/antilectual/Idle-Champions/tree/main/AddOns/IC_ChestPurchaser",
+			"Version":"v0.3.1"
+		},
+		{
+			"Name":"About",
+			"Url":"https://github.com/antilectual/Idle-Champions/tree/main/AddOns/IC_About",
+			"Version":"v0.3.5"
+		},
+		{
+			"Name":"Game Location Settings",
+			"Url":"https://github.com/antilectual/Idle-Champions/tree/main/AddOns/IC_GameLocationSettings",
+			"Version":"v0.1.3"
+		},
+		{
+			"Name":"Inventory View",
+			"Url":"https://github.com/antilectual/Idle-Champions/tree/main/AddOns/IC_InventoryView",
+			"Version":"v0.2.3"
+		},
+		{
+			"Name":"Memory Functions Testing (Continuous)",
+			"Url":"https://github.com/antilectual/Idle-Champions/tree/main/AddOns/IC_MemoryFunctions",
+			"Version":"v0.2.5"
+		},
+		{
+			"Name":"Memory Functions Full Read",
+			"Url":"https://github.com/antilectual/Idle-Champions/tree/main/AddOns/IC_MemoryFunctionsFullRead",
+			"Version":"v0.2.4"
+		},
+		{
+			"Name":"Theme Manager",
+			"Url":"https://github.com/antilectual/Idle-Champions/tree/main/AddOns/IC_Theme_Manager",
+			"Version":"v0.0.3"
+		},
+		{
+			"Name":"EGS Overlay Swatter",
+			"Url":"https://github.com/emmotes/IC_Addons/tree/main/IC_Addons/IC_EGSOverlaySwatter_Extra",
+			"Version":"v0.1.2"
+		},
+		{
+			"Name":"BrivGemFarm LevelUp",
+			"Url":"https://github.com/imp444/IC_Addons/tree/main/IC_BrivGemFarm_LevelUp_Extra",
+			"Version":"v1.5.1"
+		},
+		{
+			"Name":"Game Settings Fix",
+			"Url":"https://github.com/emmotes/IC_Addons/tree/main/IC_Addons/IC_GameSettingsFix_Extra",
+			"Version":"v0.2.11"
+		},
+		{
+			"Name":"AdvancedSettings Preset Routes",
+			"Url":"https://github.com/emmotes/IC_Addons/tree/main/IC_Addons/IC_Advanced_PresetRoutes_Extra",
+			"Version":"v0.0.1"
+		},
+		{
+			"Name":"Area Timing",
+			"Url":"https://github.com/imp444/Idle-Champions/tree/main/AddOns/IC_AreaTiming",
+			"Version":"v1.1.1"
+		},
+		{
+			"Name":"RNG Waiting Room",
+			"Url":"https://github.com/imp444/IC_Addons/tree/main/IC_RNGWaitingRoom_Extra",
+			"Version":"v0.3.1"
+		}
+	]
+}

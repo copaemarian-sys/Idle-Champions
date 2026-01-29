@@ -1,18 +1,7 @@
-*settings.json
-IC_Test*
-IC_*Extra*
-.gitignore
-Logging*LOG*
-.vscode*
-*Old.LOG*
-*LV_Functions.ahk
-eos*
-UserSettings.ini
-Addons/IC_BrivGemFarm_Performance/IC_BrivGemFarm_Mods.ahk
-AddOns/IC_BrivGemFarm_Private/
-#AddonManagement Addon ignores
-AddOns/GeneratedAddonInclude.ahk
-AddOns/*_Addon_Management/AddonManagement.json
-LastGUID*.json
-Current*.json
-SharedFunctions/ScanCodesOverride.json
+
+IC_Addons/IC_NoModronAdventuring_Extra/SpecSettings.JSON
+IC_Addons/IC_NoModronAdventuring_Extra/HeroDefines.JSON
+IC_Addons/IC_NoModronAdventuring_Extra/MaxLvl.JSON
+IC_Addons/IC_GameSettingsFix_Extra/profiles/*.json
+*_Settings.json
+IC_Addons/IC_ClaimDailyPlatinum_Extra/LastGUID_ClaimDailyPremium.json
